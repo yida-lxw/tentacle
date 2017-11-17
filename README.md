@@ -9,7 +9,7 @@ This product was set up by team,JAVA Flying Tiger,in 2017.
 We hope the developers can use a web crawler application without coding.  
 我们希望，今后开发人员无需编码就可以配置一个很好的爬虫应用。  
 
-We can use Tentacle to grab most of infomation what we want to get.
+We can use Tentacle to grab most of infomation what we want to get.  
 我们可以依赖Tentacle获取到我们想要的信息。
 
 ## 2. WHAT CAN IT DO 功能说明
