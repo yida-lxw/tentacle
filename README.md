@@ -9,3 +9,4 @@ A distributed and multi-topic Web Crawler project ,which enables engineer to get
 ## 4. HOW TO DEVELOP 开发说明
 
 ## 5. VERSION LOG 版本说明
+ 测试
