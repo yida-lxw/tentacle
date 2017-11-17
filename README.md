@@ -29,6 +29,10 @@ Please see the document "软件开发要点及注意事项.docx"
 (Waiting to be added)  
 （待补充）
 
-## 4. VERSION LOG 版本说明
+## 4. JOIN US 加入我们
+No way.  
+如果你有好的想法可以给我们发送消息，但我们暂时不接受新成员哦。
+
+## 5. VERSION LOG 版本说明
 (Waiting to be added)  
 （待补充）
